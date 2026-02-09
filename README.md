@@ -16,6 +16,7 @@ The demo is divided into the following progressive stages:
 
 5. **STAGE 4: ECS Fargate Deployment**  
    Provision an ECS Cluster, Target Groups, Application Load Balancer (ALB), and extend the pipeline to deploy to ECS Fargate.
+<img width="1481" height="694" alt="image" src="https://github.com/user-attachments/assets/e26f4bd9-d2ef-4a59-bc20-7949ab724967" />
 
 6. **STAGE 5: Cleanup**  
    Instructions to safely delete all created resources to avoid unnecessary charges.
